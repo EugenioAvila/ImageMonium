@@ -1,6 +1,8 @@
 ﻿namespace ImageMonium.Herramientas
 {
-    class Credenciales
+    public class Credenciales
     {
+        public string API_KEY = "";//aqui ingresa tu api key
+
     }
 }
